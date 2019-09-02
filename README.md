@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample Rails app to make HTTP requests using REST client.
 
-Things you may want to cover:
+[REST-Client repo](https://github.com/rest-client/rest-client)
 
-* Ruby version
+Made by:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*[Rodolfo Cisneros](https://github.com/rociac)
+*[Adebola Adeniran](https://github.com/onedebos)
