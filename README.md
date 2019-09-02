@@ -6,5 +6,6 @@ Sample Rails app to make HTTP requests using REST client.
 
 Made by:
 
-*[Rodolfo Cisneros](https://github.com/rociac)
-*[Adebola Adeniran](https://github.com/onedebos)
++[Rodolfo Cisneros](https://github.com/rociac)
+
++[Adebola Adeniran](https://github.com/onedebos)
